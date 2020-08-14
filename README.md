@@ -5,3 +5,5 @@ demo.m est le fichier qui accueil l'image et lance la fonction
 
 ATTENTION, la résolution d'image change la taille des sphères.
 Il est conseillé d'utilisier l'image color.jpg.
+
+![alt text](https://github.com/RamyEB/matlab-histogramme-rgb/blob/master/matlab.png)
